@@ -2,6 +2,8 @@
 
 ![screenshot](screenshot.png)
 
+Note: Always consult with a financial advisor to get personalized advice for your specific situation.
+
 ## Available Scripts
 
 In the project directory, you can run:
